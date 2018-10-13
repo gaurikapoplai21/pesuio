@@ -1,0 +1,19 @@
+# The story line for the interactive text based Game
+
+Action-adventure text game:
+
+Scenes:
+  1.player at home. Killed by assasins.
+  2.player wakes up at elysium
+  3.Player meets bot who can travel the living world. Decides to investigate.
+  4.Player goes to meet famous detective, because player was robbed after being killed. Item is of national importance
+  5.Player does some jobs for detective.
+  6.Detective, after investigation, is able to guess the name of the brain behind the assasination.
+  7.Player's bot and detective go in search of villan.
+  8.Meet the villain, Climax scene ....
+  
+ Player will be able to:
+  1. Move a bot around the world in the game
+  2. Pick up and transfer items through the bot
+  3. Interact with a few NPCs
+  4. Collect points and make game-changing decisions.
