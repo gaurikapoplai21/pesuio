@@ -33,6 +33,7 @@ while not plas.dead: # this is the loop for the player when they are in the firs
     alive=open("alive.txt", "r" )
     for x in alive:
         print(x.strip())
+    plas.dead = True
 
 while plas.dead:    # this is the loop for the player once they are dead, this is the main loop when they can interact with the bot
     pass
