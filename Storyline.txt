@@ -8,12 +8,15 @@ Scenes:
   3.Player meets bot who can travel the living world. Decides to investigate.
   4.Player goes to meet famous detective, because player was robbed after being killed. Item is of national importance
   5.Player does some jobs for detective.
+  The jobs being: fetching medicines for the sick detective, which invloves walking to the medicine store and helping sick people on the way.
   6.Detective, after investigation, is able to guess the name of the brain behind the assasination.
+    The player is sleeping while the detective is investigating, so no need of interaction.
   7.Player's bot and detective go in search of villan.
+    They essentialy, board a train, using the train tickets, pickup a gun and walk to the villan's house, not searching really..
   8.Meet the villain, Climax scene ....
   
  Player will be able to:
   1. Move a bot around the world in the game
   2. Pick up and transfer items through the bot
-  3. Interact with a few NPCs
+  3. Interact with a few NPCs  some of them being, shopkeeper, sick tramp, villan, detective, bot
   4. Collect points and make game-changing decisions.
