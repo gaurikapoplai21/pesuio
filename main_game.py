@@ -29,11 +29,12 @@ def talk_to_bot(statement):         # this is the only way the player can intera
         console("No, I don't understand that command, try again")
         show_help()
 
-while not plas.dead:
-    pass            # this is the loop for the player when they are in the first part, before they enter the underworld
+while not plas.dead: # this is the loop for the player when they are in the first part, before they enter the underworld
+    alive=open("alive.txt", "r" )
+    for x in alive:
+        print(x.strip())
 
 while plas.dead:    # this is the loop for the player once they are dead, this is the main loop when they can interact with the bot
     pass
-   
 with open('records','a') as record:
   record.write(plas.progress)
